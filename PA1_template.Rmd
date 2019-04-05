@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-auther: Shiva sai M
+auther: Sahaj G
 output: 
   html_document:
     keep_md: true
